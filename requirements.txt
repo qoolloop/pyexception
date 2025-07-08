@@ -1,0 +1,22 @@
+## pyqoolloop
+cryptography
+funcsigs
+msgpack
+msgpack-types
+
+## pyexception
+
+# pylog
+
+# dev
+mypy==1.16.1
+pytest
+pytest-cov
+pytest-mypy
+pytest-ruff
+pytest-xdist
+ruff==0.12.2
+
+# documentation
+sphinx
+sphinx_rtd_theme
